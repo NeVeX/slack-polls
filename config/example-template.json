@@ -1,0 +1,13 @@
+[
+  {
+    "question": "This is poll question one!",
+    "answers": [
+      "Poll answer One",
+      "Poll answer Two",
+      "Poll answer Three",
+      "Poll answer Four",
+      "Poll answer Five",
+      "Poll answer Six"
+    ]
+  }
+]
