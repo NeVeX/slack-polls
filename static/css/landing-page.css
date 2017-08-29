@@ -1,0 +1,41 @@
+
+.nevex-password:active, .nevex-password:target, .nevex-password, .nevex-password-ok, .nevex-password-not-ok {
+    outline: none;
+    border: white;
+    color: white;
+    background: none;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    height: 20px;
+    width: 50px;
+}
+
+.nevex-button, .nevex-button:active, .nevex-button:target {
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    color: white;
+    background: none;
+    outline: none;
+    opacity: 1;
+}
+
+.nevex-button-hide {
+    opacity: 0;
+}
+
+.nevex-button:active {
+    background-color: firebrick;
+}
+
+.nevex-password-ok {
+    background: green;
+}
+
+.nevex-password-not-ok {
+    background: red;
+}

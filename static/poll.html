@@ -1,0 +1,42 @@
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <script src="js/jquery-3.1.1.js"></script>
+        <script src="js/poll-control.js"></script>
+        <script src="js/chart-2.6.0.js"></script>
+        <link rel="stylesheet" href="css/ext-question.css">
+        <link rel="stylesheet" href="css/poll.css">
+    </head>
+
+    <body>
+        <div class="wrapper">
+            <div class="poll-question" id="question-text">This is a question</div>
+            <div id="poll-answer-grid-div" class="poll-answer-grid">
+                <!-- intentionally empty. JS will fill it up dynamically -->
+            </div>
+
+            <div id="poll-answers-update-grid" class="poll-answers-update-grid">
+                <div class="poll-answers-update-grid-left">Current Poll Participation: </div>
+                <div class="poll-answers-update-grid-right" id="poll-answers-update-current-participation"></div>
+                <div class="poll-answers-update-grid-left">Total People Registered: </div>
+                <div class="poll-answers-update-grid-right" id="poll-answers-update-total-registered"></div>
+            </div>
+
+            <div id="poll-control-div" class="poll-control-grid">
+                <div></div>
+                <div><button id="poll-control-button" class="btn btn-primary"></button></div>
+                <div><button id="next-poll-control-button" class="btn btn-info">Next Poll</button></div>
+                <div></div>
+            </div>
+
+            <div id="help-text-div" class="poll-help-grid">
+                <h3 class="help-text">
+                    To join, enter <b class="help-text-highlight">/hackathonpoll join</b> in any Slack channel
+                </h3>
+            </div>
+        </div>
+    </body>
+
+</html>
+

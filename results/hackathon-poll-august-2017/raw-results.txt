@@ -1,0 +1,195 @@
+Teams (index matches the below array):
+
+1. "Caroosel",
+2. "Faster - Retail - Investing ",
+3. "Consortium of Computer Coding Champions <br>Constructing Configuration Control with ÇÔ∏ςυΙ",
+4. "Team Monosodium Glutamate-- M.M.S.S.G.",
+5. "Prosplainin'",
+6. "Prosperators",
+7. "IT Crowd",
+8. "Areq Automation",
+9. "Prosperity",
+10. "$1.8M Team",
+11. "QA Automation Dashboard",
+12. "The Interview Lottery",
+13. "Automate Credit Reporting Disputes"
+
+
+Question 1
+{
+  "stats": [
+    {
+      "totalVotes": 6,
+      "totalVotePercent": 12
+    },
+    {
+      "totalVotes": 8,
+      "totalVotePercent": 16
+    },
+    {
+      "totalVotes": 2,
+      "totalVotePercent": 4
+    },
+    {
+      "totalVotes": 5,
+      "totalVotePercent": 10
+    },
+    {
+      "totalVotes": 5,
+      "totalVotePercent": 10
+    },
+    {
+      "totalVotes": 1,
+      "totalVotePercent": 2
+    },
+    {
+      "totalVotes": 0,
+      "totalVotePercent": 0
+    },
+    {
+      "totalVotes": 1,
+      "totalVotePercent": 2
+    },
+    {
+      "totalVotes": 4,
+      "totalVotePercent": 8
+    },
+    {
+      "totalVotes": 2,
+      "totalVotePercent": 4
+    },
+    {
+      "totalVotes": 4,
+      "totalVotePercent": 8
+    },
+    {
+      "totalVotes": 1,
+      "totalVotePercent": 2
+    },
+    {
+      "totalVotes": 10,
+      "totalVotePercent": 20
+    }
+  ],
+  "totalAnswers": 49
+}
+
+
+
+Question 2
+{
+  "stats": [
+    {
+      "totalVotes": 7,
+      "totalVotePercent": 14
+    },
+    {
+      "totalVotes": 5,
+      "totalVotePercent": 10
+    },
+    {
+      "totalVotes": 9,
+      "totalVotePercent": 18
+    },
+    {
+      "totalVotes": 3,
+      "totalVotePercent": 6
+    },
+    {
+      "totalVotes": 4,
+      "totalVotePercent": 8
+    },
+    {
+      "totalVotes": 1,
+      "totalVotePercent": 2
+    },
+    {
+      "totalVotes": 1,
+      "totalVotePercent": 2
+    },
+    {
+      "totalVotes": 4,
+      "totalVotePercent": 8
+    },
+    {
+      "totalVotes": 3,
+      "totalVotePercent": 6
+    },
+    {
+      "totalVotes": 0,
+      "totalVotePercent": 0
+    },
+    {
+      "totalVotes": 6,
+      "totalVotePercent": 12
+    },
+    {
+      "totalVotes": 3,
+      "totalVotePercent": 6
+    },
+    {
+      "totalVotes": 5,
+      "totalVotePercent": 10
+    }
+  ],
+  "totalAnswers": 51
+}
+
+Question 3
+{
+  "stats": [
+    {
+      "totalVotes": 5,
+      "totalVotePercent": 9
+    },
+    {
+      "totalVotes": 10,
+      "totalVotePercent": 18
+    },
+    {
+      "totalVotes": 4,
+      "totalVotePercent": 7
+    },
+    {
+      "totalVotes": 7,
+      "totalVotePercent": 13
+    },
+    {
+      "totalVotes": 6,
+      "totalVotePercent": 11
+    },
+    {
+      "totalVotes": 1,
+      "totalVotePercent": 2
+    },
+    {
+      "totalVotes": 3,
+      "totalVotePercent": 5
+    },
+    {
+      "totalVotes": 1,
+      "totalVotePercent": 2
+    },
+    {
+      "totalVotes": 4,
+      "totalVotePercent": 7
+    },
+    {
+      "totalVotes": 1,
+      "totalVotePercent": 2
+    },
+    {
+      "totalVotes": 4,
+      "totalVotePercent": 7
+    },
+    {
+      "totalVotes": 1,
+      "totalVotePercent": 2
+    },
+    {
+      "totalVotes": 8,
+      "totalVotePercent": 15
+    }
+  ],
+  "totalAnswers": 55
+}

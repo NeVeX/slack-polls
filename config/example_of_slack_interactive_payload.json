@@ -1,0 +1,30 @@
+{
+   "payload": {
+        "actions": [
+          {
+             "name":"answer",
+             "type":"button",
+             "value":"2"
+          }
+       ],
+       "callback_id": "slack",
+       "team": {
+          "id": "123ewrwe",
+          "domain":"something"
+       },
+       "channel": {
+          "id": "D1KBK6Q2X",
+          "name": "directmessage"
+       },
+       "user": {
+          "id": "ssdfsd2432",
+          "name": "johndoe"
+       },
+       "action_ts": "1499387886.595846",
+       "message_ts": "1499387884.574747",
+       "attachment_id": "1",
+       "token": "sdfsdfsd",
+       "is_app_unfurl": false,
+       "response_url": "https://hooks.slack.com/actions/sdfsdf234/234234234/sdfsfsdf"
+    }
+}

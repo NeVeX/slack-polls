@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Quiz</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<script type="text/javascript" src="js/jquery-3.1.1.js"></script>
+		<script type="text/javascript" src="js/landing-page.js"></script>
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="css/poll.css" />
+		<link rel="stylesheet" href="css/landing-page.css" />
+	</head>
+
+	<body class="loading">
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="overlay"></div>
+			<div id="main">
+					<header id="header">
+						<h1>Hackathon Poll</h1>
+						<h2>Enter <strong class="help-text-highlight-landing-page">/hackathonpoll join</strong> in any Slack channel to join</h2>
+						<div >
+							<button class="nevex-button-hide" id="start-quiz-button" type="button">Start</button>
+						</div>
+					</header>
+
+					<footer id="footer">
+						<input id="quiz-master-key" type="password" class="nevex-password" placeholder=""/>
+					</footer>
+			</div>
+		</div>
+		<script>
+			window.onload = function() { document.body.className = ''; };
+			window.ontouchmove = function() { return false; };
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+	</body>
+</html>
